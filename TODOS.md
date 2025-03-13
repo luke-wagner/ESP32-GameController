@@ -5,3 +5,4 @@ Optimize for enclosure?
 Different resistors for status leds
 Silkscreen identifier for start button
 LEDs for each right-side button
+Shorter pin headers for ESP32 connection?
